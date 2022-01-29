@@ -5,7 +5,7 @@ import { initReactI18next } from "react-i18next";
 // Importing translation files
 
 import translationEN from "./locales/en/translation.json";
-import translationFA from "./locales/hn/translation.json";
+import translationFA from "./locales/fa/translation.json";
 
 
 //Creating object with the variables of imported translation files
